@@ -1,0 +1,9 @@
+/Users/CindyDang/GitHub/learn_cs109/DataAnalysing/Week-2-Python/Week-2-UNIXDataFiles/MyFirstDir
+total 10696
+drwxr-xr-x  7 CindyDang  staff      238 Jun  4 19:37 ./
+drwxr-xr-x  7 CindyDang  staff      238 Jun  4 19:11 ../
+-rw-r--r--  1 CindyDang  staff       64 Jun  4 19:30 fruits-sorted.txt
+-rw-r--r--  1 CindyDang  staff       49 Jun  4 19:32 fruits-uniq.txt
+-rw-r--r--  1 CindyDang  staff       64 Jun  4 19:26 fruits.txt
+-rw-r--r--  1 CindyDang  staff       96 Jun  4 19:38 out.txt
+-rw-r--r--  1 CindyDang  staff  5458937 Jun  4 19:26 shakespeare.txt
